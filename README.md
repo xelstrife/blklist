@@ -1,2 +1,3 @@
 # blklist
-ilqaa.com
+www.ilqaa.com
+www.exness.com
