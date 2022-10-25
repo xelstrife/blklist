@@ -1,2 +1,2 @@
 # blklist
-for pi hole
+ilqaa.com
